@@ -1,4 +1,4 @@
-#UNCC Textbook Finder Launch Documentation
+# UNCC Textbook Finder Launch Documentation
 
 The textbook finder website requires a PHP and MySQL server to run. For ease of setup this
 guide will use XAMPP (https://www.apachefriends.org/download.html) to provide both.
